@@ -1,4 +1,4 @@
----
+---gh pr checkout 494
 title: Server Installation
 sidebar_label: Installation
 sidebar_position: 1
